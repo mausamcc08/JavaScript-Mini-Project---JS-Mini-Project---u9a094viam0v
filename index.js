@@ -62,7 +62,7 @@ function makeSound(key) {
       break;
 
 
-    default: console.log(key);
+    default: console.log(key);//
 
   }
 }
